@@ -5,8 +5,8 @@ This repository explores the iBeacon mode of the metawear and shape the foundati
 
 Install the Bleacon and KalmanJs dependencies
 
-'npm install'
+`npm install`
 
 ## Launch 
 
-'node index.js'
+`node index.js`
