@@ -1,0 +1,30 @@
+{
+  "name": "metawear-indoor-location",
+  "version": "1.0.0",
+  "description": "This repository explores the iBeacon mode of the metawear and shape the foundation for indoor location tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/handsonio/metawear-indoor-location.git"
+  },
+  "keywords": [
+    "iot",
+    "indoor",
+    "location",
+    "metawear",
+    "kalman"
+  ],
+  "author": "Alan Hortz <alan@handson.io> (https://www.handson.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/handsonio/metawear-indoor-location/issues"
+  },
+  "homepage": "https://github.com/handsonio/metawear-indoor-location#readme",
+  "dependencies": {
+    "bleacon": "^0.5.1",
+    "kalmanjs": "^1.0.0-beta"
+  }
+}
